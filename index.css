@@ -1,0 +1,68 @@
+.body {
+    padding: 16px;
+}
+
+.recipe {
+    max-width: 700px;
+    margin: 0 auto;
+    border: 2px solid black;
+    padding: 16px;
+    background-color: #f5f5f5;
+    font-family: Arial, Helvetica, sans-serif;
+    color: teal;
+}
+
+p {
+    color: gray;
+}
+
+
+li {
+    color: darkgoldenrod;
+    margin-bottom: 12px;
+}
+
+h3 {
+    border-bottom: 2px solid black;
+    padding-bottom: 12px;
+}
+
+p.highlight {
+    color: blueviolet;
+}
+
+li.important-step {
+    color: maroon;
+}
+
+.tag {
+    background-color: yellow;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    display: inline-block;
+}
+
+.box {
+    background-color: yellow;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.home-link {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #548ca8;
+    color: white;
+    text-decoration: none;
+}
+
+.button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #548ca8;
+    color: white;
+    text-decoration: none;
+    border-radius: 6px;
+}
